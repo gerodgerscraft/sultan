@@ -1,0 +1,227 @@
+[Fri Nov 15 06:21:11 2024] Program started
+[Fri Nov 15 06:21:11 2024] Terminal initialized
+[Fri Nov 15 06:21:19 2024] Starting insert() function
+[Fri Nov 15 06:21:19 2024] Cleared input buffer
+[Fri Nov 15 06:21:19 2024] Prompting for name input
+[Fri Nov 15 06:21:21 2024] Received character: 106
+[Fri Nov 15 06:21:21 2024] Added character to name: j
+[Fri Nov 15 06:21:21 2024] Received character: 107
+[Fri Nov 15 06:21:21 2024] Added character to name: k
+[Fri Nov 15 06:21:21 2024] Received character: 104
+[Fri Nov 15 06:21:21 2024] Added character to name: h
+[Fri Nov 15 06:21:21 2024] Received character: 102
+[Fri Nov 15 06:21:21 2024] Added character to name: f
+[Fri Nov 15 06:21:21 2024] Received character: 100
+[Fri Nov 15 06:21:21 2024] Added character to name: d
+[Fri Nov 15 06:21:21 2024] Received character: 115
+[Fri Nov 15 06:21:21 2024] Added character to name: s
+[Fri Nov 15 06:21:22 2024] Received character: 127
+[Fri Nov 15 06:21:22 2024] Backspace processed
+[Fri Nov 15 06:21:22 2024] Received character: 127
+[Fri Nov 15 06:21:22 2024] Backspace processed
+[Fri Nov 15 06:21:22 2024] Received character: 127
+[Fri Nov 15 06:21:22 2024] Backspace processed
+[Fri Nov 15 06:21:22 2024] Received character: 127
+[Fri Nov 15 06:21:22 2024] Backspace processed
+[Fri Nov 15 06:21:22 2024] Received character: 127
+[Fri Nov 15 06:21:22 2024] Backspace processed
+[Fri Nov 15 06:21:23 2024] Received character: 127
+[Fri Nov 15 06:21:23 2024] Backspace processed
+[Fri Nov 15 06:21:23 2024] Received character: 127
+[Fri Nov 15 06:21:23 2024] Received character: 127
+[Fri Nov 15 06:21:23 2024] Received character: 127
+[Fri Nov 15 06:21:23 2024] Received character: 127
+[Fri Nov 15 06:21:23 2024] Received character: 127
+[Fri Nov 15 06:21:23 2024] Received character: 127
+[Fri Nov 15 06:21:23 2024] Received character: 107
+[Fri Nov 15 06:21:23 2024] Added character to name: k
+[Fri Nov 15 06:21:24 2024] Received character: 101
+[Fri Nov 15 06:21:24 2024] Added character to name: e
+[Fri Nov 15 06:21:24 2024] Received character: 108
+[Fri Nov 15 06:21:24 2024] Added character to name: l
+[Fri Nov 15 06:21:24 2024] Received character: 108
+[Fri Nov 15 06:21:24 2024] Added character to name: l
+[Fri Nov 15 06:21:24 2024] Received character: 121
+[Fri Nov 15 06:21:24 2024] Added character to name: y
+[Fri Nov 15 06:21:25 2024] Received character: 10
+[Fri Nov 15 06:21:25 2024] Name input complete
+[Fri Nov 15 06:21:25 2024] Prompting for code input
+[Fri Nov 15 06:21:27 2024] Received character for code: 107
+[Fri Nov 15 06:21:29 2024] Received character for code: 10
+[Fri Nov 15 06:21:29 2024] Empty code input - waiting for valid input
+[Fri Nov 15 06:21:31 2024] Received character for code: 127
+[Fri Nov 15 06:21:32 2024] Received character for code: 115
+[Fri Nov 15 06:21:32 2024] Received character for code: 100
+[Fri Nov 15 06:21:32 2024] Received character for code: 102
+[Fri Nov 15 06:21:32 2024] Received character for code: 115
+[Fri Nov 15 06:21:32 2024] Received character for code: 100
+[Fri Nov 15 06:21:32 2024] Received character for code: 100
+[Fri Nov 15 06:21:32 2024] Received character for code: 102
+[Fri Nov 15 06:21:32 2024] Received character for code: 106
+[Fri Nov 15 06:21:32 2024] Received character for code: 110
+[Fri Nov 15 06:21:33 2024] Received character for code: 102
+[Fri Nov 15 06:21:33 2024] Received character for code: 103
+[Fri Nov 15 06:21:34 2024] Received character for code: 10
+[Fri Nov 15 06:21:34 2024] Empty code input - waiting for valid input
+[Fri Nov 15 06:21:35 2024] Received character for code: 127
+[Fri Nov 15 06:21:36 2024] Received character for code: 107
+[Fri Nov 15 06:21:37 2024] Received character for code: 106
+[Fri Nov 15 06:21:37 2024] Received character for code: 108
+[Fri Nov 15 06:21:37 2024] Received character for code: 104
+[Fri Nov 15 06:21:37 2024] Received character for code: 108
+[Fri Nov 15 06:21:37 2024] Received character for code: 106
+[Fri Nov 15 06:21:38 2024] Received character for code: 107
+[Fri Nov 15 06:23:52 2024] Program started
+[Fri Nov 15 06:23:52 2024] Terminal initialized
+[Fri Nov 15 06:23:58 2024] Starting insert() function
+[Fri Nov 15 06:23:58 2024] Cleared input buffer
+[Fri Nov 15 06:23:58 2024] Prompting for name input
+[Fri Nov 15 06:24:00 2024] Received character for name: ASCII=107, Char='k'
+[Fri Nov 15 06:24:00 2024] Added character to name: k
+[Fri Nov 15 06:24:01 2024] Received character for name: ASCII=101, Char='e'
+[Fri Nov 15 06:24:01 2024] Added character to name: e
+[Fri Nov 15 06:24:01 2024] Received character for name: ASCII=108, Char='l'
+[Fri Nov 15 06:24:01 2024] Added character to name: l
+[Fri Nov 15 06:24:01 2024] Received character for name: ASCII=108, Char='l'
+[Fri Nov 15 06:24:01 2024] Added character to name: l
+[Fri Nov 15 06:24:02 2024] Received character for name: ASCII=121, Char='y'
+[Fri Nov 15 06:24:02 2024] Added character to name: y
+[Fri Nov 15 06:24:03 2024] Received character for name: ASCII=32, Char=' '
+[Fri Nov 15 06:24:03 2024] Added character to name:  
+[Fri Nov 15 06:24:04 2024] Received character for name: ASCII=114, Char='r'
+[Fri Nov 15 06:24:04 2024] Added character to name: r
+[Fri Nov 15 06:24:05 2024] Received character for name: ASCII=111, Char='o'
+[Fri Nov 15 06:24:05 2024] Added character to name: o
+[Fri Nov 15 06:24:05 2024] Received character for name: ASCII=100, Char='d'
+[Fri Nov 15 06:24:05 2024] Added character to name: d
+[Fri Nov 15 06:24:05 2024] Received character for name: ASCII=103, Char='g'
+[Fri Nov 15 06:24:05 2024] Added character to name: g
+[Fri Nov 15 06:24:05 2024] Received character for name: ASCII=101, Char='e'
+[Fri Nov 15 06:24:05 2024] Added character to name: e
+[Fri Nov 15 06:24:05 2024] Received character for name: ASCII=114, Char='r'
+[Fri Nov 15 06:24:05 2024] Added character to name: r
+[Fri Nov 15 06:24:05 2024] Received character for name: ASCII=115, Char='s'
+[Fri Nov 15 06:24:05 2024] Added character to name: s
+[Fri Nov 15 06:24:06 2024] Received character for name: ASCII=10, Char=' '
+[Fri Nov 15 06:24:06 2024] Name input complete
+[Fri Nov 15 06:24:06 2024] Prompting for code input
+[Fri Nov 15 06:24:07 2024] Received character for code: ASCII=107, Char='k', isdigit=0
+[Fri Nov 15 06:24:07 2024] Ignored non-digit character: ASCII=107
+[Fri Nov 15 06:24:09 2024] Received character for code: ASCII=10, Char=' ', isdigit=0
+[Fri Nov 15 06:24:09 2024] Empty code input - waiting for valid input
+[Fri Nov 15 06:24:28 2024] Received character for code: ASCII=106, Char='j', isdigit=0
+[Fri Nov 15 06:24:28 2024] Ignored non-digit character: ASCII=106
+[Fri Nov 15 06:24:28 2024] Received character for code: ASCII=106, Char='j', isdigit=0
+[Fri Nov 15 06:24:28 2024] Ignored non-digit character: ASCII=106
+[Fri Nov 15 06:25:32 2024] Program started
+[Fri Nov 15 06:25:32 2024] Terminal initialized
+[Fri Nov 15 06:25:39 2024] Starting insert() function
+[Fri Nov 15 06:25:39 2024] Cleared input buffer
+[Fri Nov 15 06:25:39 2024] Prompting for name input
+[Fri Nov 15 06:25:40 2024] Received character for name: ASCII=107, Char='k'
+[Fri Nov 15 06:25:40 2024] Added character to name: k
+[Fri Nov 15 06:25:41 2024] Received character for name: ASCII=101, Char='e'
+[Fri Nov 15 06:25:41 2024] Added character to name: e
+[Fri Nov 15 06:25:41 2024] Received character for name: ASCII=108, Char='l'
+[Fri Nov 15 06:25:41 2024] Added character to name: l
+[Fri Nov 15 06:25:41 2024] Received character for name: ASCII=108, Char='l'
+[Fri Nov 15 06:25:41 2024] Added character to name: l
+[Fri Nov 15 06:25:42 2024] Received character for name: ASCII=121, Char='y'
+[Fri Nov 15 06:25:42 2024] Added character to name: y
+[Fri Nov 15 06:25:42 2024] Received character for name: ASCII=32, Char=' '
+[Fri Nov 15 06:25:42 2024] Added character to name:  
+[Fri Nov 15 06:25:42 2024] Received character for name: ASCII=114, Char='r'
+[Fri Nov 15 06:25:42 2024] Added character to name: r
+[Fri Nov 15 06:25:42 2024] Received character for name: ASCII=101, Char='e'
+[Fri Nov 15 06:25:42 2024] Added character to name: e
+[Fri Nov 15 06:25:42 2024] Received character for name: ASCII=110, Char='n'
+[Fri Nov 15 06:25:42 2024] Added character to name: n
+[Fri Nov 15 06:25:43 2024] Received character for name: ASCII=101, Char='e'
+[Fri Nov 15 06:25:43 2024] Added character to name: e
+[Fri Nov 15 06:25:43 2024] Received character for name: ASCII=101, Char='e'
+[Fri Nov 15 06:25:43 2024] Added character to name: e
+[Fri Nov 15 06:25:44 2024] Received character for name: ASCII=10, Char=' '
+[Fri Nov 15 06:25:44 2024] Name input complete
+[Fri Nov 15 06:25:44 2024] Prompting for code input
+[Fri Nov 15 06:25:45 2024] Received character for code: ASCII=100, Char='d', isdigit=0
+[Fri Nov 15 06:25:45 2024] Ignored non-digit character: ASCII=100
+[Fri Nov 15 06:25:45 2024] Received character for code: ASCII=102, Char='f', isdigit=0
+[Fri Nov 15 06:25:45 2024] Ignored non-digit character: ASCII=102
+[Fri Nov 15 06:25:46 2024] Received character for code: ASCII=100, Char='d', isdigit=0
+[Fri Nov 15 06:25:46 2024] Ignored non-digit character: ASCII=100
+[Fri Nov 15 06:25:47 2024] Received character for code: ASCII=102, Char='f', isdigit=0
+[Fri Nov 15 06:25:47 2024] Ignored non-digit character: ASCII=102
+[Fri Nov 15 06:25:48 2024] Received character for code: ASCII=49, Char='1', isdigit=1
+[Fri Nov 15 06:25:48 2024] Added digit to code: 1, current pos=1
+[Fri Nov 15 06:25:48 2024] Received character for code: ASCII=50, Char='2', isdigit=1
+[Fri Nov 15 06:25:48 2024] Added digit to code: 2, current pos=2
+[Fri Nov 15 06:25:50 2024] Received character for code: ASCII=50, Char='2', isdigit=1
+[Fri Nov 15 06:25:50 2024] Added digit to code: 2, current pos=3
+[Fri Nov 15 06:25:50 2024] Received character for code: ASCII=50, Char='2', isdigit=1
+[Fri Nov 15 06:25:50 2024] Added digit to code: 2, current pos=4
+[Fri Nov 15 06:25:51 2024] Received character for code: ASCII=10, Char=' ', isdigit=0
+[Fri Nov 15 06:25:51 2024] Code input complete
+[Fri Nov 15 06:25:51 2024] Prompting for designation
+[Fri Nov 15 06:25:51 2024] Insert function completed
+[Fri Nov 15 06:30:00 2024] Program started
+[Fri Nov 15 06:30:00 2024] Terminal initialized
+[Fri Nov 15 06:30:11 2024] Starting insert() function
+[Fri Nov 15 06:30:11 2024] Cleared input buffer
+[Fri Nov 15 06:30:11 2024] Prompting for name input
+[Fri Nov 15 06:30:12 2024] Received character for name: ASCII=10, Char=' '
+[Fri Nov 15 06:30:12 2024] Empty name input - waiting for valid input
+[Fri Nov 15 06:30:13 2024] Received character for name: ASCII=71, Char='G'
+[Fri Nov 15 06:30:13 2024] Added character to name: G
+[Fri Nov 15 06:30:14 2024] Received character for name: ASCII=97, Char='a'
+[Fri Nov 15 06:30:14 2024] Added character to name: a
+[Fri Nov 15 06:30:14 2024] Received character for name: ASCII=98, Char='b'
+[Fri Nov 15 06:30:14 2024] Added character to name: b
+[Fri Nov 15 06:30:15 2024] Received character for name: ASCII=114, Char='r'
+[Fri Nov 15 06:30:15 2024] Added character to name: r
+[Fri Nov 15 06:30:15 2024] Received character for name: ASCII=105, Char='i'
+[Fri Nov 15 06:30:15 2024] Added character to name: i
+[Fri Nov 15 06:30:15 2024] Received character for name: ASCII=101, Char='e'
+[Fri Nov 15 06:30:15 2024] Added character to name: e
+[Fri Nov 15 06:30:15 2024] Received character for name: ASCII=108, Char='l'
+[Fri Nov 15 06:30:15 2024] Added character to name: l
+[Fri Nov 15 06:30:16 2024] Received character for name: ASCII=32, Char=' '
+[Fri Nov 15 06:30:16 2024] Added character to name:  
+[Fri Nov 15 06:30:16 2024] Received character for name: ASCII=82, Char='R'
+[Fri Nov 15 06:30:16 2024] Added character to name: R
+[Fri Nov 15 06:30:16 2024] Received character for name: ASCII=111, Char='o'
+[Fri Nov 15 06:30:16 2024] Added character to name: o
+[Fri Nov 15 06:30:17 2024] Received character for name: ASCII=100, Char='d'
+[Fri Nov 15 06:30:17 2024] Added character to name: d
+[Fri Nov 15 06:30:17 2024] Received character for name: ASCII=103, Char='g'
+[Fri Nov 15 06:30:17 2024] Added character to name: g
+[Fri Nov 15 06:30:17 2024] Received character for name: ASCII=101, Char='e'
+[Fri Nov 15 06:30:17 2024] Added character to name: e
+[Fri Nov 15 06:30:17 2024] Received character for name: ASCII=114, Char='r'
+[Fri Nov 15 06:30:17 2024] Added character to name: r
+[Fri Nov 15 06:30:17 2024] Received character for name: ASCII=115, Char='s'
+[Fri Nov 15 06:30:17 2024] Added character to name: s
+[Fri Nov 15 06:30:18 2024] Received character for name: ASCII=10, Char=' '
+[Fri Nov 15 06:30:18 2024] Name input complete
+[Fri Nov 15 06:30:18 2024] Prompting for code input
+[Fri Nov 15 06:30:19 2024] Received character for code: ASCII=49, Char='1', isdigit=1
+[Fri Nov 15 06:30:19 2024] Added digit to code: 1, current pos=1
+[Fri Nov 15 06:30:20 2024] Received character for code: ASCII=49, Char='1', isdigit=1
+[Fri Nov 15 06:30:20 2024] Added digit to code: 1, current pos=2
+[Fri Nov 15 06:30:20 2024] Received character for code: ASCII=49, Char='1', isdigit=1
+[Fri Nov 15 06:30:20 2024] Added digit to code: 1, current pos=3
+[Fri Nov 15 06:30:22 2024] Received character for code: ASCII=10, Char=' ', isdigit=0
+[Fri Nov 15 06:30:22 2024] Code input complete
+[Fri Nov 15 06:30:22 2024] Prompting for designation
+[Fri Nov 15 06:30:28 2024] Received character for designation: ASCII=77, Char='M'
+[Fri Nov 15 06:30:28 2024] Received character for designation: ASCII=97, Char='a'
+[Fri Nov 15 06:30:29 2024] Received character for designation: ASCII=110, Char='n'
+[Fri Nov 15 06:30:29 2024] Received character for designation: ASCII=97, Char='a'
+[Fri Nov 15 06:30:29 2024] Received character for designation: ASCII=103, Char='g'
+[Fri Nov 15 06:30:30 2024] Received character for designation: ASCII=101, Char='e'
+[Fri Nov 15 06:30:30 2024] Received character for designation: ASCII=114, Char='r'
+[Fri Nov 15 06:30:30 2024] Received character for designation: ASCII=10, Char=' '
+[Fri Nov 15 06:30:30 2024] Designation input complete
+[Fri Nov 15 06:30:30 2024] Prompting for experience
+[Fri Nov 15 06:30:33 2024] Prompting for age
+[Fri Nov 15 06:30:36 2024] Prompting for working hours
+[Fri Nov 15 06:30:42 2024] Record added successfully
